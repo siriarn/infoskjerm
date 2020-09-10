@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infoskjerm/static/css/main.5f361e03.chunk.css",
+    "main.js": "/infoskjerm/static/js/main.213b21aa.chunk.js",
+    "main.js.map": "/infoskjerm/static/js/main.213b21aa.chunk.js.map",
+    "runtime-main.js": "/infoskjerm/static/js/runtime-main.ad5f6e6d.js",
+    "runtime-main.js.map": "/infoskjerm/static/js/runtime-main.ad5f6e6d.js.map",
+    "static/js/2.c58ec73a.chunk.js": "/infoskjerm/static/js/2.c58ec73a.chunk.js",
+    "static/js/2.c58ec73a.chunk.js.map": "/infoskjerm/static/js/2.c58ec73a.chunk.js.map",
+    "index.html": "/infoskjerm/index.html",
+    "precache-manifest.9878b4c32a4baa3df6b1c6faa7313744.js": "/infoskjerm/precache-manifest.9878b4c32a4baa3df6b1c6faa7313744.js",
+    "service-worker.js": "/infoskjerm/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/infoskjerm/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c58ec73a.chunk.js.LICENSE.txt": "/infoskjerm/static/js/2.c58ec73a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5f6e6d.js",
+    "static/js/2.c58ec73a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.213b21aa.chunk.js"
+  ]
+}
